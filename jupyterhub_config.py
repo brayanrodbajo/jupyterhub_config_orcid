@@ -1004,4 +1004,5 @@ c.LocalGenericOAuthenticator.username_key = 'sub'
 
 c.Authenticator.username_map = {
     '0000-0002-6648-1834': 'brayan_admin',
+    '0000-0003-0735-8817': 'brayan_admin'
 }
